@@ -1,2 +1,2 @@
 language = "python3"
-run = "start shopify.py" 
+run = "shopify.py" 
