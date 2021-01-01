@@ -5,4 +5,4 @@ Simple web-scraper to see changes in shopify inventory
 
 Input the site you would like to monitor and the discord webhook! If you are interested in getting updates and support for the monitor reach out on twitter @Turbobots!
 
-[![Run on Repl.it](https://repl.it/badge/github/bendemers/Shopify-Site-Monitor)](https://repl.it/github/bendemers/Shopify-Site-Monitor)
+[![Run on Repl.it](https://repl.it/badge/github/dvzz1/shopify-inventory)](https://repl.it/github/dvzz1/shopify-inventory)
